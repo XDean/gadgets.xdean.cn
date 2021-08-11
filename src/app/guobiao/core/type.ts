@@ -1,6 +1,6 @@
 import assert from "assert";
 import {Tile, TilePoint, TilePoints, TileType, TileTypes} from "./tile";
-import {arrayContentEquals} from "../util/util";
+import {arrayContentEquals} from "../../../util/util";
 
 
 export type Options = {

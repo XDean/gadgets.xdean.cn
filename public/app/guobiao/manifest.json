@@ -1,0 +1,22 @@
+{
+  "name": "国标麻将算番器",
+  "short_name": "国标算番",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/app/guobiao",
+  "scope": "/app/guobiao",
+  "icons": [
+    {
+      "src": "/app/guobiao/logo_192.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "/app/guobiao/logo_512.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
